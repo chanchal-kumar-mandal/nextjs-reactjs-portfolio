@@ -6,8 +6,6 @@ This is advanced modern Portfolio Frontend application on next.js, reactjs funct
 
 ## Demo Screenshots
 
-<img width="1440" alt="Screen Shot 2022-04-26 at 1 20 37 PM" src="https://user-images.githubusercontent.com/14269798/165250731-264ac363-b1fc-44a1-a3ad-1196bc7156ac.png">
-
 <img width="1440" alt="Screen Shot 2022-04-26 at 1 21 48 PM" src="https://user-images.githubusercontent.com/14269798/165250753-aaa406df-c8fa-440b-b6b8-f7a0937e430a.png">
 
 <img width="1440" alt="Screen Shot 2022-04-26 at 1 22 16 PM" src="https://user-images.githubusercontent.com/14269798/165250759-7d6ff379-c606-4751-a02d-143089a9bd1b.png">
