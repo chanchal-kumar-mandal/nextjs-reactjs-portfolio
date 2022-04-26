@@ -1,5 +1,4 @@
-## Description<img width="1440" alt="Screen Shot 2022-04-26 at 1 20 37 PM" src="https://user-images.githubusercontent.com/14269798/165250516-38195cd4-992f-462b-b6f4-59170bb092d8.png">
-
+## Description<
 This is advanced modern Portfolio Frontend application on next.js, reactjs function based components. 
 
 ## Live App: https://chanchal-kumar-mandal.github.io/nextjs-reactjs-portfolio/
